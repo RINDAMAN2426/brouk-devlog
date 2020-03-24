@@ -7,7 +7,7 @@ draft: false
 
 ## Reference
 
-##### [delivan.dev](https://delivan.dev)
+##### [delivan.dev](https://delivan.dev/web/gatsby-blog-seo-1/)
 
 > 이 포스팅은 delivan님의 글을 읽고 제 개인적인 학습 정리 용도로 적었기 때문에 원본 글을 꼭 참고 하길 바랍니다.
 
