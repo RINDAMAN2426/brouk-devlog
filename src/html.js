@@ -10,7 +10,7 @@ export default class HTML extends React.Component {
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta
             name="Description"
-            content="author: brouk, 저자: brouk, 카테고리: Front-end, Back-end"
+            content="author: cdbrouk@gmail.com, Jr. Full Stack Developer Brouk's devlog"
           />
           <meta
             name="viewport"
