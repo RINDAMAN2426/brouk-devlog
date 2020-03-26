@@ -1,5 +1,5 @@
 ---
-title: Gatsby Blog 구글 검색 등록하기(1)
+title: Gatsby Blog 구글 검색 등록하기(2)
 date: 2020-03-26 08:03:96
 category: react
 draft: false
