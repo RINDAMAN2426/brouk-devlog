@@ -1,5 +1,5 @@
 ---
-title: SEO - sitemap작성 (1)
+title: Gatsby Blog 구글 검색 등록하기(1)
 date: 2020-03-24 22:03:64
 category: react
 draft: false
