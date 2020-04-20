@@ -5,6 +5,11 @@ category: programming
 draft: false
 ---
 
+# Reference
+
+- [Medium(@dydrlaks) - REST API ?](https://medium.com/@dydrlaks/rest-api-3e424716bab)
+- [Velog(@stampid) - REST API 와 RESTful API](https://velog.io/@stampid/REST-API%EC%99%80-RESTful-API#1-rest%EB%9E%80)
+
 # REST API
 
 ## REST
