@@ -52,7 +52,7 @@ export function Head({ description, lang, meta, keywords, title }) {
               },
               {
                 name: 'google-site-verification',
-                content: 'yxj8Dm11qNXMjg5EoEWBCZoq_cKlzokWAubM6Nr5NmI',
+                content: 'vrLMR0g92wvf7cjJDi64IvXT1cYxWR52YJUZLVfQVfc',
               },
             ]
               .concat(
