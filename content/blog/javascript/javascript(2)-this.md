@@ -110,7 +110,7 @@ const kims = new Family('kim')
 // Window
 ```
 
-[javascript(1)-arrow-function](<https://brouk-devlog.netlify.com/javascript/javascript(1)-arrow-function/>)에서 언급했던 내용입니다. 함수의 내부 콜백함수에서의 this는 window를 가르키게 됩니다. \
+[javascript(1)-arrow-function](<https://brouk-devlog.netlify.app/javascript/javascript(1)-arrow-function/>)에서 언급했던 내용입니다. 함수의 내부 콜백함수에서의 this는 window를 가르키게 됩니다. \
 해결방법에 대해서 다시 설명을 드리자면 두가지 방법이 있습니다.
 
 ```js
