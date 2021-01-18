@@ -38,7 +38,7 @@ const isOddDivisorCount = (num: number): boolean => {
 
 ```ts
 export const isPerfectSquareNumber = (num: number): boolean =>
-  Number.isInteger(Math.sqrt(num) % 1)
+  Number.isInteger(Math.sqrt(num))
 ```
 
 딱봐도 for 없어지고 훨씬 더 간편해보이는 함수!! 다른 사례들을 보니까 sqrt % 1의 결과를 0과 비교 연산하시더라구요! 그게 더 코스트가 적게드는 방법일까요..? mocha로 돌릴때는 똑같은 것 같던데..
