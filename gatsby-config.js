@@ -94,8 +94,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://brouk-devlog.netlify.com/',
-        sitemap: 'https://brouk-devlog.netlify.com/sitemap.xml',
+        host: 'https://brouk-devlog.netlify.app/',
+        sitemap: 'https://brouk-devlog.netlify.app/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }],
       },
     },
