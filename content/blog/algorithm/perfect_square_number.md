@@ -1,6 +1,6 @@
 ---
 title: perfect square number
-date: 2021-01-18
+date: 2021-01-19 00:54
 category: algorithm
 draft: false
 ---
