@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-bee",
-  "private": true,
-  "description": "Gatsby blog starter template",
+  "name": "brouk-devlog",
+  "private": false,
+  "description": "brouk-devlog",
   "version": "0.1.0",
-  "author": "Jbee[JaeYeopHan]<ljyhanll@gmail.com>",
+  "author": "cdbrou kcdboruk@gmail.com>",
   "bugs": {
     "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
   },
