@@ -3,7 +3,7 @@
   "private": false,
   "description": "brouk-devlog",
   "version": "1.0.0",
-  "author": "cdbrouk<cdbrouk@gmail.com>",
+  "author": "brouk2426<brouk2426@gmail.com>",
   "bugs": {
     "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
   },
@@ -64,7 +64,7 @@
     "recursive-readdir": "^2.2.2",
     "signale": "^1.3.0"
   },
-  "homepage": "https://https://github.com/cdbrouk/brouk-devlog",
+  "homepage": "https://https://github.com/brouk2426/brouk-devlog",
   "keywords": [
     "gatsby"
   ],
@@ -72,7 +72,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdbrouk/brouk-devlog.git"
+    "url": "git+https://github.com/brouk2426/brouk-devlog.git"
   },
   "scripts": {
     "post": "node ./cli/create-new-post.js",

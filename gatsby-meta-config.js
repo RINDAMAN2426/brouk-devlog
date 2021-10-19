@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://brouk-devlog.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `cdbrouk`, // Your GitHub account
+    github: `brouk2426`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -15,7 +15,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'cdbrouk/brouk-devlog', // Your repository for archive comment
+    utterances: 'brouk2426/brouk-devlog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
