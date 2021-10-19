@@ -1,6 +1,6 @@
 ---
 title: WebSecurity (CORS+XSS+CSRF)
-date: 2021-10-70 08:44
+date: 2021-10-07 08:44
 category: programming
 draft: false
 ---
